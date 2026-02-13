@@ -1,5 +1,7 @@
 /* Función suma */
 
+/* Nuevo comentario */
+
 var suma = function suma (a, b) {
 	return a + b;	
 };
